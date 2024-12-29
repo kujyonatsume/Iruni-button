@@ -49,5 +49,5 @@
     "prettier": "^2.0.5",
     "selenium-webdriver": "^4.0.0-alpha.7"
   },
-  "packageManager": "yarn@3.6.3"
+  "packageManager": "yarn@1.22.22"
 }
