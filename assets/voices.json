@@ -7,10 +7,31 @@
       },
       "voice_list": [
         {
+          "name": "卡哇伊",
+          "path": "https://r2.natsumoe.com/iruni/voice/卡哇伊.mp3",
+          "description": {
+            "zh": "卡哇伊"
+          }
+        },
+        {
+          "name": "嘴巴張開~啊~~~",
+          "path": "https://r2.natsumoe.com/iruni/voice/嘴巴張開~啊~~~.mp3",
+          "description": {
+            "zh": "嘴巴張開~啊~~~"
+          }
+        },
+        {
           "name": "我是天上的使者這隻惡魔就交由我來統治了",
           "path": "https://r2.natsumoe.com/iruni/voice/我是天上的使者這隻惡魔就交由我來統治了.mp3",
           "description": {
             "zh": "我是天上的使者這隻惡魔就交由我來統治了"
+          }
+        },
+        {
+          "name": "晚安",
+          "path": "https://r2.natsumoe.com/iruni/voice/晚安.mp3",
+          "description": {
+            "zh": "晚安晚安晚安"
           }
         },
         {
@@ -155,6 +176,13 @@
       },
       "voice_list": [
         {
+          "name": "魯尼哭哭",
+          "path": "https://r2.natsumoe.com/iruni/voice/魯尼哭哭.mp3",
+          "description": {
+            "zh": "魯尼哭哭"
+          }
+        },
+        {
           "name": "你們都騙我的小珍珠",
           "path": "https://r2.natsumoe.com/iruni/voice/你們都騙我的小珍珠.mp3",
           "description": {
@@ -169,6 +197,20 @@
         "zh": "罵倒類台詞"
       },
       "voice_list": [
+        {
+          "name": "我不是你媽！亂認",
+          "path": "https://r2.natsumoe.com/iruni/voice/我不是你媽！亂認.mp3",
+          "description": {
+            "zh": "我不是你媽！亂認"
+          }
+        },
+        {
+          "name": "你到底想怎樣啦",
+          "path": "https://r2.natsumoe.com/iruni/voice/你到底想怎樣啦.mp3",
+          "description": {
+            "zh": "你到底想怎樣啦"
+          }
+        },
         {
           "name": "你這個爛砲兵",
           "path": "https://r2.natsumoe.com/iruni/voice/你這個爛砲兵.mp3",
@@ -205,6 +247,13 @@
         "zh": "病嬌類台詞"
       },
       "voice_list": [
+        {
+          "name": "陳樂童李若男",
+          "path": "https://r2.natsumoe.com/iruni/voice/陳樂童李若男.mp3",
+          "description": {
+            "zh": "陳樂童李若男"
+          }
+        },
         {
           "name": "新婚三問_病嬌版",
           "path": "https://r2.natsumoe.com/iruni/voice/新婚三問_病嬌版.mp3",
@@ -257,6 +306,13 @@
       },
       "voice_list": [
         {
+          "name": "說謊的人去吃便當",
+          "path": "https://r2.natsumoe.com/iruni/voice/說謊的人去吃便當.mp3",
+          "description": {
+            "zh": "說謊的人(小聲)..去吃便當"
+          }
+        },
+        {
           "name": "お兄ちゃん",
           "path": "https://r2.natsumoe.com/iruni/voice/お兄ちゃん.mp3",
           "description": {
@@ -268,6 +324,13 @@
           "path": "https://r2.natsumoe.com/iruni/voice/魯尼喜歡我.mp3",
           "description": {
             "zh": "好き好きみんな大好き大好きだよ大好きだよみんな大好き"
+          }
+        },
+        {
+          "name": "新婚三問ASMR",
+          "path": "https://r2.natsumoe.com/iruni/voice/新婚三問ASMR.mp3",
+          "description": {
+            "zh": "新婚三問ASMR版"
           }
         },
         {
@@ -321,6 +384,20 @@
       },
       "voice_list": [
         {
+          "name": "什…什麼…你什麼時候產生這種錯覺",
+          "path": "https://r2.natsumoe.com/iruni/voice/什…什麼…你什麼時候產生這種錯覺.mp3",
+          "description": {
+            "zh": "什…什麼…你什麼時候產生這種錯覺"
+          }
+        },
+        {
+          "name": "Explosion",
+          "path": "https://r2.natsumoe.com/iruni/voice/Explosion.mp3",
+          "description": {
+            "zh": "Explosion"
+          }
+        },
+        {
           "name": "咕嚕靈波",
           "path": "https://r2.natsumoe.com/iruni/voice/咕嚕靈波.mp3",
           "description": {
@@ -346,6 +423,13 @@
           "path": "自肥魔女伊雷娜.mp3",
           "description": {
             "zh": "自肥魔女伊雷娜"
+          }
+        },
+        {
+          "name": "鹿乃子",
+          "path": "https://r2.natsumoe.com/iruni/voice/鹿乃子.mp3",
+          "description": {
+            "zh": "鹿乃子"
           }
         }
       ]
@@ -463,6 +547,13 @@
         "zh": "歌曲台詞"
       },
       "voice_list": [
+        {
+          "name": "呀咧呀咧",
+          "path": "https://r2.natsumoe.com/iruni/voice/呀咧呀咧.mp3",
+          "description": {
+            "zh": "呀咧呀咧"
+          }
+        },
         {
           "name": "5MA之歌",
           "path": "https://r2.natsumoe.com/iruni/voice/魯尼5MA.mp3",
