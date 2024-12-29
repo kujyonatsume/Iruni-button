@@ -7,10 +7,52 @@
       },
       "voice_list": [
         {
-          "name": "卡哇伊",
-          "path": "https://r2.natsumoe.com/iruni/voice/卡哇伊.mp3",
+          "name": "你敷衍我",
+          "path": "https://r2.natsumoe.com/iruni/voice/你敷衍我.mp3",
           "description": {
-            "zh": "卡哇伊"
+              "zh": "你敷衍我"
+          }
+      },
+        {
+          "name": "WDYM",
+          "path": "https://r2.natsumoe.com/iruni/voice/WDYM.mp3",
+          "description": {
+            "zh": "WDYM"
+          }
+        },
+        {
+          "name": "Yeah_you_die_I_die_go_die_die",
+          "path": "https://r2.natsumoe.com/iruni/voice/Yeah_you_die_I_die_go_die_die.mp3",
+          "description": {
+            "zh": "Yeah_you_die_I_die_go_die_die"
+          }
+        },
+        {
+          "name": "不要只會出一張嘴",
+          "path": "https://r2.natsumoe.com/iruni/voice/不要只會出一張嘴.mp3",
+          "description": {
+            "zh": "不要只會出一張嘴"
+          }
+        },
+        {
+          "name": "讓你模仿沒有讓你抄玥",
+          "path": "https://r2.natsumoe.com/iruni/voice/讓你模仿沒有讓你抄玥.mp3",
+          "description": {
+            "zh": "讓你模仿沒有讓你抄玥"
+          }
+        },
+        {
+          "name": "我是有禮貌的女人了",
+          "path": "https://r2.natsumoe.com/iruni/voice/我是有禮貌的女人了.mp3",
+          "description": {
+            "zh": "我是有禮貌的女人了"
+          }
+        },
+        {
+          "name": "我要炸掉子午計劃的廚房嘻嘻",
+          "path": "https://r2.natsumoe.com/iruni/voice/我要炸掉子午計劃的廚房嘻嘻.mp3",
+          "description": {
+            "zh": "我要炸掉子午計劃的廚房嘻嘻"
           }
         },
         {
@@ -70,17 +112,17 @@
           }
         },
         {
+          "name": "你484喜歡我",
+          "path": "https://r2.natsumoe.com/iruni/voice/你484喜歡我.mp3",
+          "description": {
+            "zh": "你484喜歡我"
+          }
+        },
+        {
           "name": "愛妻便當",
           "path": "https://r2.natsumoe.com/iruni/voice/愛妻便當.mp3",
           "description": {
             "zh": "愛妻便當"
-          }
-        },
-        {
-          "name": "是強哥~~~~~",
-          "path": "https://r2.natsumoe.com/iruni/voice/是強哥~~~~~.mp3",
-          "description": {
-            "zh": "是強哥~~~~~"
           }
         },
         {
@@ -176,10 +218,38 @@
       },
       "voice_list": [
         {
+          "name": "嗚嗚嗚我被敷衍了",
+          "path": "https://r2.natsumoe.com/iruni/voice/嗚嗚嗚我被敷衍了.mp3",
+          "description": {
+              "zh": "嗚嗚嗚我被敷衍了"
+          }
+      },
+        {
+          "name": "媽媽~~",
+          "path": "https://r2.natsumoe.com/iruni/voice/媽媽~~.mp3",
+          "description": {
+            "zh": "媽媽~~"
+          }
+        },
+        {
+          "name": "跳舞派對",
+          "path": "https://r2.natsumoe.com/iruni/voice/跳舞派對.mp3",
+          "description": {
+            "zh": "跳舞派對"
+          }
+        },
+        {
           "name": "魯尼哭哭",
           "path": "https://r2.natsumoe.com/iruni/voice/魯尼哭哭.mp3",
           "description": {
             "zh": "魯尼哭哭"
+          }
+        },
+        {
+          "name": "是強哥~~~~~",
+          "path": "https://r2.natsumoe.com/iruni/voice/是強哥~~~~~.mp3",
+          "description": {
+            "zh": "是強哥~~~~~"
           }
         },
         {
@@ -248,6 +318,20 @@
       },
       "voice_list": [
         {
+          "name": "要一直在一起",
+          "path": "https://r2.natsumoe.com/iruni/voice/要一直在一起.mp3",
+          "description": {
+            "zh": "要一直在一起"
+          }
+        },
+        {
+          "name": "如果你們發了任何dd的東西我都看的到喔",
+          "path": "https://r2.natsumoe.com/iruni/voice/如果你們發了任何dd的東西我都看的到喔.mp3",
+          "description": {
+            "zh": "如果你們發了任何dd的東西我都看的到喔"
+          }
+        },
+        {
           "name": "陳樂童李若男",
           "path": "https://r2.natsumoe.com/iruni/voice/陳樂童李若男.mp3",
           "description": {
@@ -269,6 +353,13 @@
         "zh": "給你滿滿的能量"
       },
       "voice_list": [
+        {
+          "name": "我我昨天晚上親手做了愛妻便當你願意吃嗎",
+          "path": "https://r2.natsumoe.com/iruni/voice/我我昨天晚上親手做了愛妻便當你願意吃嗎.mp3",
+          "description": {
+            "zh": "我我昨天晚上親手做了愛妻便當你願意吃嗎"
+          }
+        },
         {
           "name": "要當大家的溫暖月光",
           "path": "https://r2.natsumoe.com/iruni/voice/要當大家的溫暖月光.mp3",
@@ -305,6 +396,41 @@
         "zh": "耳機推薦 (ASMR 立體聲可能導致社死的語音)"
       },
       "voice_list": [
+        {
+          "name": "今天有想我嗎有想我嗎我超想你們的",
+          "path": "https://r2.natsumoe.com/iruni/voice/今天有想我嗎有想我嗎我超想你們的.mp3",
+          "description": {
+            "zh": "今天有想我嗎有想我嗎我超想你們的"
+          }
+        },
+        {
+          "name": "TSKR",
+          "path": "https://r2.natsumoe.com/iruni/voice/TSKR.mp3",
+          "description": {
+            "zh": "TSKR"
+          }
+        },
+        {
+          "name": "我們結束了(哈欠)",
+          "path": "https://r2.natsumoe.com/iruni/voice/我們結束了(哈欠).mp3",
+          "description": {
+            "zh": "我們結束了(哈欠)"
+          }
+        },
+        {
+          "name": "要哄睡狗狗哈士奇睡覺嘍",
+          "path": "https://r2.natsumoe.com/iruni/voice/要哄睡狗狗哈士奇睡覺嘍.mp3",
+          "description": {
+            "zh": "要哄睡狗狗哈士奇睡覺嘍"
+          }
+        },
+        {
+          "name": "起床了",
+          "path": "https://r2.natsumoe.com/iruni/voice/起床了.mp3",
+          "description": {
+            "zh": "起床了"
+          }
+        },
         {
           "name": "說謊的人去吃便當",
           "path": "https://r2.natsumoe.com/iruni/voice/說謊的人去吃便當.mp3",
@@ -456,6 +582,20 @@
       },
       "voice_list": [
         {
+          "name": "咕嚕咕嚕",
+          "path": "https://r2.natsumoe.com/iruni/voice/咕嚕咕嚕.mp3",
+          "description": {
+            "zh": "咕嚕咕嚕"
+          }
+        },
+        {
+          "name": "鈴鈴鈴鈴鈴鈴",
+          "path": "https://r2.natsumoe.com/iruni/voice/鈴鈴鈴鈴鈴鈴.mp3",
+          "description": {
+            "zh": "鈴鈴鈴鈴鈴鈴"
+          }
+        },
+        {
           "name": "阿巴阿巴阿巴",
           "path": "https://r2.natsumoe.com/iruni/voice/阿巴阿巴阿巴.mp3",
           "description": {
@@ -530,6 +670,13 @@
           "path": "https://r2.natsumoe.com/iruni/voice/嗷嗷2.mp3",
           "description": {
             "zh": "嗷嗷2"
+          }
+        },
+        {
+          "name": "卡哇伊",
+          "path": "https://r2.natsumoe.com/iruni/voice/卡哇伊.mp3",
+          "description": {
+            "zh": "卡哇伊"
           }
         },
         {
