@@ -7,12 +7,19 @@
       },
       "voice_list": [
         {
+          "name": "嘿沒禮貌",
+          "path": "https://r2.natsumoe.com/iruni/voice/嘿沒禮貌.mp3",
+          "description": {
+              "zh": "嘿沒禮貌"
+          }
+      },
+        {
           "name": "你敷衍我",
           "path": "https://r2.natsumoe.com/iruni/voice/你敷衍我.mp3",
           "description": {
-              "zh": "你敷衍我"
+            "zh": "你敷衍我"
           }
-      },
+        },
         {
           "name": "WDYM",
           "path": "https://r2.natsumoe.com/iruni/voice/WDYM.mp3",
@@ -221,9 +228,9 @@
           "name": "嗚嗚嗚我被敷衍了",
           "path": "https://r2.natsumoe.com/iruni/voice/嗚嗚嗚我被敷衍了.mp3",
           "description": {
-              "zh": "嗚嗚嗚我被敷衍了"
+            "zh": "嗚嗚嗚我被敷衍了"
           }
-      },
+        },
         {
           "name": "媽媽~~",
           "path": "https://r2.natsumoe.com/iruni/voice/媽媽~~.mp3",
@@ -638,10 +645,10 @@
           }
         },
         {
-          "name": "可愛",
+          "name": "啾亨",
           "path": "https://r2.natsumoe.com/iruni/voice/可愛.mp3",
           "description": {
-            "zh": "可愛"
+            "zh": "啾亨"
           }
         },
         {
@@ -649,6 +656,13 @@
           "path": "https://r2.natsumoe.com/iruni/voice/哼.mp3",
           "description": {
             "zh": "哼"
+          }
+        },
+        {
+          "name": "卡哇伊",
+          "path": "https://r2.natsumoe.com/iruni/voice/卡哇伊.mp3",
+          "description": {
+            "zh": "卡哇伊"
           }
         },
         {
@@ -670,13 +684,6 @@
           "path": "https://r2.natsumoe.com/iruni/voice/嗷嗷2.mp3",
           "description": {
             "zh": "嗷嗷2"
-          }
-        },
-        {
-          "name": "卡哇伊",
-          "path": "https://r2.natsumoe.com/iruni/voice/卡哇伊.mp3",
-          "description": {
-            "zh": "卡哇伊"
           }
         },
         {
