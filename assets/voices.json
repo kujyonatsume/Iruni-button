@@ -1,0 +1,75 @@
+{
+  "groups": [
+    {
+      "group_name": "cry_lyrics",
+      "group_description": {
+        "zh": "哀號類台詞"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "curse_lyrics",
+      "group_description": {
+        "zh": "罵倒類台詞"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "yandere_lyrics",
+      "group_description": {
+        "zh": "病嬌類台詞"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "healing_lyrics",
+      "group_description": {
+        "zh": "給你滿滿的能量"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "headphone_recommand",
+      "group_description": {
+        "zh": "耳機推薦 (ASMR，立體聲台詞，社死台詞)"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "misc_lyrics",
+      "group_description": {
+        "zh": "雜項台詞"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "mygo",
+      "group_description": {
+        "zh": "MyGo"
+      },
+      "voice_list": []
+    },
+    {
+      "group_name": "noise",
+      "group_description": {
+        "zh": "意義不明的音效"
+      },
+      "voice_list": [
+        {
+          "name": "YAHAHAA",
+          "path": "https://r2.natsumoe.com/YAHAHAA.mp3",
+          "description": {
+            "zh": "YAHAHAA"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "song_lyrics",
+      "group_description": {
+        "zh": "歌曲台詞"
+      },
+      "voice_list": []
+    }
+  ]
+}
