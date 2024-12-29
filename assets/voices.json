@@ -1,61 +1,271 @@
 {
   "groups": [
     {
+      "group_name": "lyrics",
+      "group_description": {
+        "zh": "一般台詞"
+      },
+      "voice_list": [
+        {
+          "name": "穿辣一點喔",
+          "path": "https://r2.natsumoe.com/inuri/voice/穿辣一點喔.mp3",
+          "description": {
+            "zh": "穿辣一點喔"
+          }
+        },
+        {
+          "name": "起床重睡",
+          "path": "https://r2.natsumoe.com/inuri/voice/起床重睡.mp3",
+          "description": {
+            "zh": "起床重睡"
+          }
+        },
+        {
+          "name": "I will punish DD no DD",
+          "path": "https://r2.natsumoe.com/inuri/voice/I_will_punish_DD_no_DD.mp3",
+          "description": {
+            "zh": "I will punish DD no DD"
+          }
+        },
+        {
+          "name": "嘿我就偏不",
+          "path": "https://r2.natsumoe.com/inuri/voice/嘿我就偏不.mp3",
+          "description": {
+            "zh": "嘿我就偏不"
+          }
+        },
+        {
+          "name": "假偷刀挖災亞蝦密喜偷刀假偷刀",
+          "path": "https://r2.natsumoe.com/inuri/voice/假偷刀挖災亞蝦密喜偷刀假偷刀.mp3",
+          "description": {
+            "zh": "假偷刀挖災亞蝦密喜偷刀假偷刀"
+          }
+        },
+        {
+          "name": "挖喜祈iruni",
+          "path": "https://r2.natsumoe.com/inuri/voice/挖喜祈iruni.mp3",
+          "description": {
+            "zh": "挖喜祈iruni"
+          }
+        },
+        {
+          "name": "蛋雕蛋雕吝誒好啦沒有拉開玩笑的",
+          "path": "https://r2.natsumoe.com/inuri/voice/蛋雕蛋雕吝誒好啦沒有拉開玩笑的.mp3",
+          "description": {
+            "zh": "蛋雕蛋雕吝誒好啦沒有拉開玩笑的"
+          }
+        },
+        {
+          "name": "挖誒台益逼哩喀厚哩災亞某",
+          "path": "https://r2.natsumoe.com/inuri/voice/挖誒台益逼哩喀厚哩災亞某.mp3",
+          "description": {
+            "zh": "挖誒台益逼哩喀厚哩災亞某"
+          }
+        },
+        {
+          "name": "羞羞臉他不穿衣服餒阿北",
+          "path": "https://r2.natsumoe.com/inuri/voice/羞羞臉他不穿衣服餒阿北.mp3",
+          "description": {
+            "zh": "羞羞臉他不穿衣服餒阿北"
+          }
+        }
+      ]
+    },
+    {
       "group_name": "cry_lyrics",
       "group_description": {
         "zh": "哀號類台詞"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "你們都騙我的小珍珠",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們都騙我的小珍珠.mp3",
+          "description": {
+            "zh": "你們都騙我的小珍珠"
+          }
+        }
+      ]
     },
     {
       "group_name": "curse_lyrics",
       "group_description": {
         "zh": "罵倒類台詞"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "你這個爛砲兵",
+          "path": "https://r2.natsumoe.com/inuri/voice/你這個爛砲兵.mp3",
+          "description": {
+            "zh": "你這個爛砲兵"
+          }
+        },
+        {
+          "name": "哦~你好糟糕喔",
+          "path": "https://r2.natsumoe.com/inuri/voice/哦~你好糟糕喔.mp3",
+          "description": {
+            "zh": "哦~你好糟糕喔"
+          }
+        },
+        {
+          "name": "我是你媽去吃便當",
+          "path": "https://r2.natsumoe.com/inuri/voice/我是你媽去吃便當.mp3",
+          "description": {
+            "zh": "我是你媽去吃便當"
+          }
+        },
+        {
+          "name": "你們真是沒用",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們真是沒用.mp3",
+          "description": {
+            "zh": "你們哈士奇真是沒用"
+          }
+        }
+      ]
     },
     {
       "group_name": "yandere_lyrics",
       "group_description": {
         "zh": "病嬌類台詞"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "新婚三問_病嬌版",
+          "path": "https://r2.natsumoe.com/inuri/voice/新婚三問_病嬌版.mp3",
+          "description": {
+            "zh": "新婚三問(病嬌)"
+          }
+        }
+      ]
     },
     {
       "group_name": "healing_lyrics",
       "group_description": {
         "zh": "給你滿滿的能量"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "大家都是我的寶物你們都是我最重要的寶物",
+          "path": "https://r2.natsumoe.com/inuri/voice/大家都是我的寶物你們都是我最重要的寶物.mp3",
+          "description": {
+            "zh": "大家都是我的寶物你們都是我最重要的寶物"
+          }
+        },
+        {
+          "name": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對.mp3",
+          "description": {
+            "zh": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對"
+          }
+        },
+        {
+          "name": "心靈治癒ProMaxPlus+",
+          "path": "https://r2.natsumoe.com/inuri/voice/心靈治癒ProMaxPlus+.mp3",
+          "description": {
+            "zh": "心靈治癒ProMaxPlus+"
+          }
+        }
+      ]
     },
     {
       "group_name": "headphone_recommand",
       "group_description": {
-        "zh": "耳機推薦 (ASMR，立體聲台詞，社死台詞)"
+        "zh": "耳機推薦 (ASMR 立體聲可能導致社死的語音)"
       },
       "voice_list": [
-          {
-              "name": "5ma",
-              "path": "https://r2.natsumoe.com/YAHAHAA.mp3",
-              "description": {
-                  "zh": "YAHAHAA"
-              }
+        {
+          "name": "魯尼喜歡我",
+          "path": "https://r2.natsumoe.com/inuri/voice/魯尼喜歡我.mp3",
+          "description": {
+            "zh": "好き好きみんな大好き大好きだよ大好きだよみんな大好き"
           }
+        },
+        {
+          "name": "新婚三問",
+          "path": "https://r2.natsumoe.com/inuri/voice/新婚三問.mp3",
+          "description": {
+            "zh": "新婚三問"
+          }
+        },
+        {
+          "name": "5ma",
+          "path": "https://r2.natsumoe.com/inuri/voice/5ma.mp3",
+          "description": {
+            "zh": "5ma"
+          }
+        },
+        {
+          "name": "老公起床嘍",
+          "path": "https://r2.natsumoe.com/inuri/voice/老公起床嘍.mp3",
+          "description": {
+            "zh": "老公起床嘍"
+          }
+        },
+        {
+          "name": "好啦最喜歡妳了",
+          "path": "https://r2.natsumoe.com/inuri/voice/好啦最喜歡妳了.mp3",
+          "description": {
+            "zh": "好啦最喜歡妳了"
+          }
+        },
+        {
+          "name": "妹控語音",
+          "path": "https://r2.natsumoe.com/inuri/voice/妹控.mp3",
+          "description": {
+            "zh": "おにいちゃん おにいちゃん ルニのことすき ルニわね おにいちゃんのこと大好きだ ちゅー"
+          }
+        }
       ]
     },
     {
-      "group_name": "misc_lyrics",
+      "group_name": "ACG_lyrics",
       "group_description": {
-        "zh": "雜項台詞"
+        "zh": "老二次元了"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "咕嚕靈波",
+          "path": "https://r2.natsumoe.com/inuri/voice/咕嚕靈波.mp3",
+          "description": {
+            "zh": "咕嚕靈波"
+          }
+        },
+        {
+          "name": "什麼是歡愉我就是歡愉",
+          "path": "https://r2.natsumoe.com/inuri/voice/什麼是歡愉我就是歡愉.mp3",
+          "description": {
+            "zh": "什麼是歡愉我就是歡愉"
+          }
+        },
+        {
+          "name": "爆裂魔法",
+          "path": "https://r2.natsumoe.com/inuri/voice/爆裂魔法.mp3",
+          "description": {
+            "zh": "爆裂魔法"
+          }
+        },
+        {
+          "name": "自肥魔女伊雷娜",
+          "path": "自肥魔女伊雷娜.mp3",
+          "description": {
+            "zh": "自肥魔女伊雷娜"
+          }
+        }
+      ]
     },
     {
       "group_name": "mygo",
       "group_description": {
         "zh": "MyGo"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "你們這些哈士奇老是只想到自己呢",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們這些哈士奇老是只想到自己呢.mp3",
+          "description": {
+            "zh": "你們這些哈士奇老是只想到自己呢"
+          }
+        }
+      ]
     },
     {
       "group_name": "noise",
@@ -65,9 +275,23 @@
       "voice_list": [
         {
           "name": "YAHAHAA",
-          "path": "https://r2.natsumoe.com/YAHAHAA.mp3",
+          "path": "https://r2.natsumoe.com/inuri/voice/YAHAHAA.mp3",
           "description": {
             "zh": "YAHAHAA"
+          }
+        },
+        {
+          "name": "惡龍咆哮",
+          "path": "https://r2.natsumoe.com/inuri/voice/惡龍咆哮.mp3",
+          "description": {
+            "zh": "惡龍咆哮"
+          }
+        },
+        {
+          "name": "Parudo",
+          "path": "https://r2.natsumoe.com/inuri/voice/Parudo.mp3",
+          "description": {
+            "zh": "Parudo"
           }
         }
       ]
@@ -77,7 +301,15 @@
       "group_description": {
         "zh": "歌曲台詞"
       },
-      "voice_list": []
+      "voice_list": [
+        {
+          "name": "5MA之歌",
+          "path": "https://r2.natsumoe.com/inuri/voice/魯尼5MA.mp3",
+          "description": {
+            "zh": "5MA之歌"
+          }
+        }
+      ]
     }
   ]
 }
