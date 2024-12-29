@@ -33,7 +33,15 @@
       "group_description": {
         "zh": "耳機推薦 (ASMR，立體聲台詞，社死台詞)"
       },
-      "voice_list": []
+      "voice_list": [
+          {
+              "name": "5ma",
+              "path": "https://r2.natsumoe.com/YAHAHAA.mp3",
+              "description": {
+                  "zh": "YAHAHAA"
+              }
+          }
+      ]
     },
     {
       "group_name": "misc_lyrics",
