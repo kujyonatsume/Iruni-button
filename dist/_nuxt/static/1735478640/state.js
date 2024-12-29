@@ -1,1 +1,0 @@
-window.__NUXT__=(function(a,b,c){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1735478640",layout:"default",error:a,state:{locales:["en","ja",b],locale:b,dark:false},serverRendered:true,routePath:c,config:{_app:{basePath:c,assetsPath:"\u002F_nuxt\u002F",cdnURL:a}}}}(null,"zh","\u002F"));

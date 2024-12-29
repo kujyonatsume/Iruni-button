@@ -7,10 +7,87 @@
       },
       "voice_list": [
         {
-          "name": "穿辣一點喔",
-          "path": "https://r2.natsumoe.com/inuri/voice/穿辣一點喔.mp3",
+          "name": "我是天上的使者這隻惡魔就交由我來統治了",
+          "path": "https://r2.natsumoe.com/inuri/voice/我是天上的使者這隻惡魔就交由我來統治了.mp3",
           "description": {
-            "zh": "穿辣一點喔"
+            "zh": "我是天上的使者這隻惡魔就交由我來統治了"
+          }
+        },
+        {
+          "name": "祈奶奶",
+          "path": "https://r2.natsumoe.com/inuri/voice/祈奶奶.mp3",
+          "description": {
+            "zh": "祈奶奶"
+          }
+        },
+        {
+          "name": "要蛋雕這遊戲",
+          "path": "https://r2.natsumoe.com/inuri/voice/要蛋雕這遊戲.mp3",
+          "description": {
+            "zh": "要蛋雕這遊戲"
+          }
+        },
+        {
+          "name": "要要當一輩子哈士奇一輩子",
+          "path": "https://r2.natsumoe.com/inuri/voice/要要當一輩子哈士奇一輩子.mp3",
+          "description": {
+            "zh": "要要當一輩子哈士奇一輩子"
+          }
+        },
+        {
+          "name": "嗚呼~我是最棒的!!",
+          "path": "https://r2.natsumoe.com/inuri/voice/嗚呼~我是最棒的!!.mp3",
+          "description": {
+            "zh": "嗚呼~我是最棒的!!"
+          }
+        },
+        {
+          "name": "好色喔",
+          "path": "https://r2.natsumoe.com/inuri/voice/好色喔.mp3",
+          "description": {
+            "zh": "好色喔"
+          }
+        },
+        {
+          "name": "愛妻便當",
+          "path": "https://r2.natsumoe.com/inuri/voice/愛妻便當.mp3",
+          "description": {
+            "zh": "愛妻便當"
+          }
+        },
+        {
+          "name": "是強哥~~~~~",
+          "path": "https://r2.natsumoe.com/inuri/voice/是強哥~~~~~.mp3",
+          "description": {
+            "zh": "是強哥~~~~~"
+          }
+        },
+        {
+          "name": "沒有要加班啦沒有",
+          "path": "https://r2.natsumoe.com/inuri/voice/沒有要加班啦沒有.mp3",
+          "description": {
+            "zh": "沒有要加班啦沒有"
+          }
+        },
+        {
+          "name": "你們清醒一點我拜託你們清醒一點好不好",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們清醒一點我拜託你們清醒一點好不好.mp3",
+          "description": {
+            "zh": "你們清醒一點我拜託你們清醒一點好不好"
+          }
+        },
+        {
+          "name": "你們除了會讓我中風還會幹什麼",
+          "path": "https://r2.natsumoe.com/inuri/voice/你們除了會讓我中風還會幹什麼.mp3",
+          "description": {
+            "zh": "你們除了會讓我中風還會幹什麼"
+          }
+        },
+        {
+          "name": "わくわく",
+          "path": "https://r2.natsumoe.com/inuri/voice/わくわく.mp3",
+          "description": {
+            "zh": "わくわく"
           }
         },
         {
@@ -144,6 +221,13 @@
       },
       "voice_list": [
         {
+          "name": "要當大家的溫暖月光",
+          "path": "https://r2.natsumoe.com/inuri/voice/要當大家的溫暖月光.mp3",
+          "description": {
+            "zh": "要當大家的溫暖月光"
+          }
+        },
+        {
           "name": "大家都是我的寶物你們都是我最重要的寶物",
           "path": "https://r2.natsumoe.com/inuri/voice/大家都是我的寶物你們都是我最重要的寶物.mp3",
           "description": {
@@ -173,6 +257,13 @@
       },
       "voice_list": [
         {
+          "name": "お兄ちゃん",
+          "path": "https://r2.natsumoe.com/inuri/voice/お兄ちゃん.mp3",
+          "description": {
+            "zh": "お兄ちゃん"
+          }
+        },
+        {
           "name": "魯尼喜歡我",
           "path": "https://r2.natsumoe.com/inuri/voice/魯尼喜歡我.mp3",
           "description": {
@@ -184,6 +275,13 @@
           "path": "https://r2.natsumoe.com/inuri/voice/新婚三問.mp3",
           "description": {
             "zh": "新婚三問"
+          }
+        },
+        {
+          "name": "穿辣一點喔",
+          "path": "https://r2.natsumoe.com/inuri/voice/穿辣一點喔.mp3",
+          "description": {
+            "zh": "穿辣一點喔"
           }
         },
         {
@@ -274,10 +372,24 @@
       },
       "voice_list": [
         {
+          "name": "阿巴阿巴阿巴",
+          "path": "https://r2.natsumoe.com/inuri/voice/阿巴阿巴阿巴.mp3",
+          "description": {
+            "zh": "阿巴阿巴阿巴"
+          }
+        },
+        {
           "name": "YAHAHAA",
           "path": "https://r2.natsumoe.com/inuri/voice/YAHAHAA.mp3",
           "description": {
             "zh": "YAHAHAA"
+          }
+        },
+        {
+          "name": "weeeeee",
+          "path": "https://r2.natsumoe.com/inuri/voice/weeeeee.mp3",
+          "description": {
+            "zh": "weeeeee"
           }
         },
         {
@@ -288,10 +400,59 @@
           }
         },
         {
-          "name": "Parudo",
-          "path": "https://r2.natsumoe.com/inuri/voice/Parudo.mp3",
+          "name": "Padoru",
+          "path": "https://r2.natsumoe.com/inuri/voice/Padoru.mp3",
           "description": {
-            "zh": "Parudo"
+            "zh": "Padoru"
+          }
+        },
+        {
+          "name": "叭餔",
+          "path": "https://r2.natsumoe.com/inuri/voice/叭餔.mp3",
+          "description": {
+            "zh": "叭餔"
+          }
+        },
+        {
+          "name": "可愛",
+          "path": "https://r2.natsumoe.com/inuri/voice/可愛.mp3",
+          "description": {
+            "zh": "可愛"
+          }
+        },
+        {
+          "name": "哼",
+          "path": "https://r2.natsumoe.com/inuri/voice/哼.mp3",
+          "description": {
+            "zh": "哼"
+          }
+        },
+        {
+          "name": "嗚呼",
+          "path": "https://r2.natsumoe.com/inuri/voice/嗚呼.mp3",
+          "description": {
+            "zh": "嗚呼"
+          }
+        },
+        {
+          "name": "嗷嗷",
+          "path": "https://r2.natsumoe.com/inuri/voice/嗷嗷.mp3",
+          "description": {
+            "zh": "嗷嗷"
+          }
+        },
+        {
+          "name": "嗷嗷2",
+          "path": "https://r2.natsumoe.com/inuri/voice/嗷嗷2.mp3",
+          "description": {
+            "zh": "嗷嗷2"
+          }
+        },
+        {
+          "name": "嗷嗷3",
+          "path": "https://r2.natsumoe.com/inuri/voice/嗷嗷3.mp3",
+          "description": {
+            "zh": "嗷嗷3"
           }
         }
       ]
