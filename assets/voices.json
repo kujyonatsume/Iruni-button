@@ -10,9 +10,9 @@
           "name": "嘿沒禮貌",
           "path": "https://r2.natsumoe.com/iruni/voice/嘿沒禮貌.mp3",
           "description": {
-              "zh": "嘿沒禮貌"
+            "zh": "嘿沒禮貌"
           }
-      },
+        },
         {
           "name": "你敷衍我",
           "path": "https://r2.natsumoe.com/iruni/voice/你敷衍我.mp3",
@@ -182,6 +182,71 @@
           }
         },
         {
+          "name": "羞羞臉他不穿衣服餒阿北",
+          "path": "https://r2.natsumoe.com/iruni/voice/羞羞臉他不穿衣服餒阿北.mp3",
+          "description": {
+            "zh": "羞羞臉他不穿衣服餒阿北"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "healing_lyrics",
+      "group_description": {
+        "zh": "給你滿滿的能量"
+      },
+      "voice_list": [
+        {
+          "name": "我我昨天晚上親手做了愛妻便當你願意吃嗎",
+          "path": "https://r2.natsumoe.com/iruni/voice/我我昨天晚上親手做了愛妻便當你願意吃嗎.mp3",
+          "description": {
+            "zh": "我我昨天晚上親手做了愛妻便當你願意吃嗎"
+          }
+        },
+        {
+          "name": "要當大家的溫暖月光",
+          "path": "https://r2.natsumoe.com/iruni/voice/要當大家的溫暖月光.mp3",
+          "description": {
+            "zh": "要當大家的溫暖月光"
+          }
+        },
+        {
+          "name": "大家都是我的寶物你們都是我最重要的寶物",
+          "path": "https://r2.natsumoe.com/iruni/voice/大家都是我的寶物你們都是我最重要的寶物.mp3",
+          "description": {
+            "zh": "大家都是我的寶物你們都是我最重要的寶物"
+          }
+        },
+        {
+          "name": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對",
+          "path": "https://r2.natsumoe.com/iruni/voice/你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對.mp3",
+          "description": {
+            "zh": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對"
+          }
+        },
+        {
+          "name": "心靈治癒ProMaxPlus+",
+          "path": "https://r2.natsumoe.com/iruni/voice/心靈治癒ProMaxPlus+.mp3",
+          "description": {
+            "zh": "心靈治癒ProMaxPlus+"
+          }
+        }
+      ]
+    },
+    {
+      "group_name": "cry_lyrics",
+      "group_description": {
+        "zh": "台語台詞"
+      },
+      "voice_list": [
+        {
+          "name": "挖喜祈iruni",
+          "path": "https://r2.natsumoe.com/iruni/voice/挖喜祈iruni.mp3",
+          "description": {
+            "zh": "我是祈iruni"
+          }
+        },
+        {
           "name": "假偷刀挖災亞蝦密喜偷刀假偷刀",
           "path": "https://r2.natsumoe.com/iruni/voice/假偷刀挖災亞蝦密喜偷刀假偷刀.mp3",
           "description": {
@@ -189,31 +254,31 @@
           }
         },
         {
-          "name": "挖喜祈iruni",
-          "path": "https://r2.natsumoe.com/iruni/voice/挖喜祈iruni.mp3",
-          "description": {
-            "zh": "挖喜祈iruni"
-          }
-        },
-        {
           "name": "蛋雕蛋雕吝誒好啦沒有拉開玩笑的",
           "path": "https://r2.natsumoe.com/iruni/voice/蛋雕蛋雕吝誒好啦沒有拉開玩笑的.mp3",
           "description": {
-            "zh": "蛋雕蛋雕吝誒好啦沒有拉開玩笑的"
+            "zh": "蛋雕蛋雕你們誒好啦沒有拉開玩笑的"
           }
         },
         {
-          "name": "挖誒台益逼哩喀厚哩災亞某",
+          "name": "我的台語比你更好你知道嗎",
           "path": "https://r2.natsumoe.com/iruni/voice/挖誒台益逼哩喀厚哩災亞某.mp3",
           "description": {
-            "zh": "挖誒台益逼哩喀厚哩災亞某"
+            "zh": "我的台語比你更好你知道嗎"
           }
         },
         {
-          "name": "羞羞臉他不穿衣服餒阿北",
-          "path": "https://r2.natsumoe.com/iruni/voice/羞羞臉他不穿衣服餒阿北.mp3",
+          "name": "我像妳去死啦",
+          "path": "https://r2.natsumoe.com/iruni/voice/我像妳去死啦.mp3",
           "description": {
-            "zh": "羞羞臉他不穿衣服餒阿北"
+            "zh": "我像妳去死啦"
+          }
+        },
+        {
+          "name": "說話該小聲的是誰",
+          "path": "https://r2.natsumoe.com/iruni/voice/說話該小聲的是誰.mp3",
+          "description": {
+            "zh": "說話該小聲的是誰"
           }
         }
       ]
@@ -355,49 +420,6 @@
       ]
     },
     {
-      "group_name": "healing_lyrics",
-      "group_description": {
-        "zh": "給你滿滿的能量"
-      },
-      "voice_list": [
-        {
-          "name": "我我昨天晚上親手做了愛妻便當你願意吃嗎",
-          "path": "https://r2.natsumoe.com/iruni/voice/我我昨天晚上親手做了愛妻便當你願意吃嗎.mp3",
-          "description": {
-            "zh": "我我昨天晚上親手做了愛妻便當你願意吃嗎"
-          }
-        },
-        {
-          "name": "要當大家的溫暖月光",
-          "path": "https://r2.natsumoe.com/iruni/voice/要當大家的溫暖月光.mp3",
-          "description": {
-            "zh": "要當大家的溫暖月光"
-          }
-        },
-        {
-          "name": "大家都是我的寶物你們都是我最重要的寶物",
-          "path": "https://r2.natsumoe.com/iruni/voice/大家都是我的寶物你們都是我最重要的寶物.mp3",
-          "description": {
-            "zh": "大家都是我的寶物你們都是我最重要的寶物"
-          }
-        },
-        {
-          "name": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對",
-          "path": "https://r2.natsumoe.com/iruni/voice/你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對.mp3",
-          "description": {
-            "zh": "你們也是我最重要的寶物你們的每一個留言然後然後對然後全部都是我的寶物對"
-          }
-        },
-        {
-          "name": "心靈治癒ProMaxPlus+",
-          "path": "https://r2.natsumoe.com/iruni/voice/心靈治癒ProMaxPlus+.mp3",
-          "description": {
-            "zh": "心靈治癒ProMaxPlus+"
-          }
-        }
-      ]
-    },
-    {
       "group_name": "headphone_recommand",
       "group_description": {
         "zh": "耳機推薦 (ASMR 立體聲可能導致社死的語音)"
@@ -414,7 +436,7 @@
           "name": "TSKR",
           "path": "https://r2.natsumoe.com/iruni/voice/TSKR.mp3",
           "description": {
-            "zh": "TSKR"
+            "zh": "打噴嚏TSKR"
           }
         },
         {
