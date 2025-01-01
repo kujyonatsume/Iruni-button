@@ -33,23 +33,12 @@
             <v-img :src="item.icon" style="width: 24px;" />
           </v-list-item-action>
           <v-list-item-content>
-            <v-list-item-title v-text="item.title" />
+            <v-list-item-title>{{ item.title }}</v-list-item-title>
           </v-list-item-content>
         </v-list-item>
       </v-list>
       <v-divider />
       <v-list>
-        <!-- 友情链接 -->
-        <!--
-        <v-list-item dense to="/links" router exact>
-          <v-list-item-action>
-            <v-icon>{{ icons.play_list_star }}</v-icon>
-          </v-list-item-action>
-          <v-list-item-content>
-            <v-list-item-title>{{ $t('site.links') }}</v-list-item-title>
-          </v-list-item-content>
-        </v-list-item>
-        -->
         <v-list-item dense to="/about" router exact>
           <v-list-item-action>
             <v-icon>{{ icons.code_tags }}</v-icon>
@@ -62,7 +51,7 @@
     </v-navigation-drawer>
     <v-app-bar dense class="primary white--text" app>
       <v-app-bar-nav-icon class="white--text" @click.stop="drawer = !drawer" />
-      <v-toolbar-title v-text="$t('site.title')" />
+      <v-toolbar-title>{{ $t('site.title') }}</v-toolbar-title>
       <v-img src="/icon.png" style="max-width: 24px; margin-left: 6px;" />
       <v-spacer />
       <v-tooltip bottom>
@@ -73,31 +62,6 @@
         </template>
         <span>{{ $t('site.switch_dark_mode') }}</span>
       </v-tooltip>
-<!--
-      <v-menu offset-y>
-        <template v-slot:activator="{ on: menu }">
-          <v-tooltip bottom>
-            <template v-slot:activator="{ on: tooltip }">
-              <v-btn icon class="white--text" v-on="{ ...tooltip, ...menu }">
-                <v-icon>{{ icons.translate }}</v-icon>
-              </v-btn>
-            </template>
-            <span>{{ $t('site.switch_language') }}</span>
-          </v-tooltip>
-        </template>
-        <v-list>
-          <v-list-item id="lang-switch-zh" @click="switch_lang('zh')">
-            <v-list-item-title>简体中文</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-ja" @click="switch_lang('ja')">
-            <v-list-item-title>日本語</v-list-item-title>
-          </v-list-item>
-          <v-list-item id="lang-switch-en" @click="switch_lang('en')">
-            <v-list-item-title>English</v-list-item-title>
-          </v-list-item>
-        </v-list>
-      </v-menu>
--->
     </v-app-bar>
     <v-main>
       <v-container class="page">
@@ -149,12 +113,11 @@ $blur-function: blur(3px);
 .nav-drawer-img {
   width: auto;
   height: 100%;
-  /*
   -webkit-filter: $blur-function;
   -moz-filter: $blur-function;
   -ms-filter: $blur-function;
   filter: $blur-function;
-   */
+  
 }
 .nav-darwer-overlay {
   position: absolute;
