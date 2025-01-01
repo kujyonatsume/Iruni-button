@@ -12,14 +12,7 @@ import about_zh from '../README.md';
 export default {
   computed: {
     about_md() {
-      switch (this.$i18n.locale) {
-        case 'ja':
-          return about_ja;
-        case 'en':
-          return about_en;
-        default:
-          return about_zh;
-      }
+        return about_zh;
     }
   },
   head() {
