@@ -14,6 +14,27 @@
           }
         },
         {
+          "name": "這是什麼破爛劇情",
+          "path": "https://r2.natsumoe.com/iruni/voice/這是什麼破爛劇情.mp3",
+          "description": {
+            "zh": "這是什麼破爛劇情"
+          }
+        },
+        {
+          "name": "你好(泰語)",
+          "path": "https://r2.natsumoe.com/iruni/voice/你好(泰語).mp3",
+          "description": {
+            "zh": "你好(泰語)"
+          }
+        },
+        {
+          "name": "你好(粵語)",
+          "path": "https://r2.natsumoe.com/iruni/voice/你好(粵語).mp3",
+          "description": {
+            "zh": "你好(粵語)"
+          }
+        },
+        {
           "name": "你敷衍我",
           "path": "https://r2.natsumoe.com/iruni/voice/你敷衍我.mp3",
           "description": {
@@ -234,11 +255,32 @@
       ]
     },
     {
-      "group_name": "cry_lyrics",
+      "group_name": "taiwan_lyrics",
       "group_description": {
         "zh": "台語台詞"
       },
       "voice_list": [
+        {
+          "name": "你愛我嗎",
+          "path": "https://r2.natsumoe.com/iruni/voice/你愛我嗎(台語).mp3",
+          "description": {
+            "zh": "你愛我嗎"
+          }
+        },
+        {
+          "name": "8點檔",
+          "path": "https://r2.natsumoe.com/iruni/voice/8點檔.mp3",
+          "description": {
+            "zh": "8點檔"
+          }
+        },
+        {
+          "name": "我欲對別人走",
+          "path": "https://r2.natsumoe.com/iruni/voice/我欲對別人走.mp3",
+          "description": {
+            "zh": "我欲對別人走"
+          }
+        },
         {
           "name": "挖喜祈iruni",
           "path": "https://r2.natsumoe.com/iruni/voice/挖喜祈iruni.mp3",
@@ -664,6 +706,27 @@
           "path": "https://r2.natsumoe.com/iruni/voice/叭餔.mp3",
           "description": {
             "zh": "叭餔"
+          }
+        },
+        {
+          "name": "doshiyo",
+          "path": "https://r2.natsumoe.com/iruni/voice/doshiyo.mp3",
+          "description": {
+            "zh": "doshiyo"
+          }
+        },
+        {
+          "name": "sedge",
+          "path": "https://r2.natsumoe.com/iruni/voice/sedge.mp3",
+          "description": {
+            "zh": "sedge"
+          }
+        },
+        {
+          "name": "YesYesYes",
+          "path": "https://r2.natsumoe.com/iruni/voice/YesYesYes.mp3",
+          "description": {
+            "zh": "YesYesYes"
           }
         },
         {

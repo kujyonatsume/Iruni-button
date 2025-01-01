@@ -1,6 +1,7 @@
 {
   "name": "iruni-button",
   "short_name": "iruni-button",
+  "description": "A template for creating VTuber button site",
   "icons": [
     {
       "src": "/_nuxt/icons/icon_64x64.180932.png",
